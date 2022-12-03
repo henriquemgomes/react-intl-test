@@ -32,8 +32,6 @@ const messages = {
 
 const finalDate = "18 Dec 2022 15:00:00 UTC";
 
-let locale = 'pt';
-
 function App() {
   const [lang, setLang] = React.useState(i18nConfig.locale)
   return (
