@@ -9,7 +9,7 @@ let i18nConfig = {
 
 const messages = {
   pt: {
-    title: "Contagem Regressiva - Final da Copa do Mundo",
+    title: "Contagem Regressiva - Final da Copa do Mundo - UTC",
     date: "Data da final: {ts, date, ::yyyyMMdd}",
     days: "Dias",
     hours: "Horas",
@@ -19,7 +19,7 @@ const messages = {
     localization_button_en: "Localização: en"
   },
   en: {
-    title: "Countdown - World Cup Final",
+    title: "Countdown - World Cup Final - UTC",
     date: "Final date: {ts, date, ::yyyyMMdd}",
     days: "Days",
     hours: "Hours",
